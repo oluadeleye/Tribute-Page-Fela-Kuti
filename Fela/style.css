@@ -1,0 +1,28 @@
+*{
+    font-family: 'Dosis', sans-serif;
+    background: lightgreen;
+  }
+  
+  #title{
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p{
+    text-align: center;
+  }
+  
+  h2{
+    text-align: center;
+  }
+  
+  #img-div{
+    text-align: center;    
+  }
+  
+  #image{
+    max-width: 1000px;
+    margin: auto;
+    display: block;
+  }
+  
